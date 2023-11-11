@@ -1,4 +1,4 @@
-IBM-DataScienceEcosystem
+**IBM-DataScienceEcosystem**
 IBM/Coursera Peer-graded Assignment - Data Science Ecosystem
 
 Assignment Topic: I was provided with an empty Jupyterlite notebook which I launched in the course, to complete this assignment. 
